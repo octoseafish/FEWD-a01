@@ -1,7 +1,7 @@
 # FEWD-a01
 FEWD assignment 1
 
-##Introductions
+## Introductions
 Hi there I'm **Emily**! I am a _**web developer and designer**_. 
 
 These are some things I like to do:
